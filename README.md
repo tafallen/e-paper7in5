@@ -5,9 +5,9 @@ This has been developed for use with the WaveShare 7.5in black and white e-paper
 
 ## External Dependencies
 
-epd7in5.py and epdconfig.py both come from WaveShare's e-Paper GitHub repo [here|https://github.com/waveshare/e-Paper]
+epd7in5.py and epdconfig.py both come from WaveShare's e-Paper GitHub repo [here](https://github.com/waveshare/e-Paper)
 
-fonts/Roboto-Regular.ttf is from [here|]https://fonts.google.com/]
+fonts/Roboto-Regular.ttf is from [here](https://fonts.google.com/)
 
 ## Pre-requisites
 
