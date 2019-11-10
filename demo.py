@@ -13,6 +13,7 @@ image = draw.create_display()
 draw.draw_diagonals(image)
 draw.draw_grid(image)
 draw.draw_text_sample(image)
+draw.draw_image_sample(image)
 
 epd = epd7in5.EPD()
 epd.init()
