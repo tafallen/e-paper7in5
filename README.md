@@ -15,6 +15,6 @@ Pillow - install using `pip3 install Pillow`
 
 ## Project Structure
 
-`demo.py` - Run this project to draw to the e-paper screen
-`draw.py` - Contains the methods used to write to the screen
-`constants.py` - Project constants such as screen size, font paths, etc..
+* `demo.py` - Run this project to draw to the e-paper screen
+* `draw.py` - Contains the methods used to write to the screen
+* `constants.py` - Project constants such as screen size, font paths, etc..
